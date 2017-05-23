@@ -1,0 +1,169 @@
+/* CSS Document */
+
+   .clr{
+   clear:both;
+   width:0px;
+   height:0px;
+   }
+   #container{
+      width:1002px;
+	  background:#FFFFFF;
+	  margin:auto;
+   }
+   #header{
+   height:136px;
+   background:orange url(timg.jpg);
+   }
+   #main{
+   background:green;
+   }
+   #Iside{
+   width:694px;
+   height:560px;
+   border:1px solid #EEE;
+   float:left;
+   border-top:none;
+   
+   }
+   .subtitle{
+   height:37px;
+   background:url(±≥æ∞.png);
+   }
+   .subtitle #xiaotubiao{
+   width:40px;
+   height:35px;
+   background:url(±≥æ∞.png);
+   background-image:url(1.png);
+   background-position:-25px -524px;
+   float:left;
+   }
+   .subtitle h1{
+   color:#151515;
+   float:left;
+   font:16px;
+   font-family:"Œ¢»Ì—≈∫⁄"£¨SimaHei,sans-setif;
+   line-height:37px;
+   }
+   .subtitle a{
+   display:block;
+   color:#888;
+   font-size:12px;
+   line-height:37px;
+   float:right;
+   }
+   #rside{
+   width:294px;
+   float:right;
+   }
+   #art{
+   background:#EEE;
+   margin-top:1px;
+   padding-top:5px;
+   }
+   #art li{
+   padding:0 0 0 30px;
+   height:39px;
+   
+   }
+   #art a{
+   font-size:12px;
+   line-height:29px;
+   color:#888;
+   display:block;
+   height:29px;
+   padding-left:30px;
+   background:url(222.png) no-repeat;
+   
+   }
+   #art a:hover{
+   color:#FF832C;
+   background:url(±≥æ∞.png);
+   }
+   .four{
+   width:326px;
+   height:240px;
+   background:#EEE;
+   margin:10px;
+   float:left;
+   _dispiay:inline;
+   }/*#four «øÿ÷∆IDŒ™fourµƒdiv£¨∂¯¿‡”¶∏√”√.four¿¥øÿ÷∆*/
+   .four img{
+   float:left;
+   margin-left:10px;
+   padding:6px;
+   background:white;
+   }
+   .four h2{
+   color:#A0A0A0;
+   margin:6px 0 6px 10px;
+   font-size:16px;
+    font-family:"Œ¢»Ì—≈∫⁄"£¨SimaHei,sans-setif;
+	}
+   .four ul{
+   margin-left:10px; 
+    float:left;
+   }
+   .four li{
+   background:url(223.png) no-repeat;
+   padding-left:25px;
+   height:28px;
+   margin:8px
+   }
+   .four a{
+   font-size:12px;
+   color:#888;
+   }
+   .four a:visited{
+   color:#808080;
+   }
+   .four a:hover{
+   color:#FF832C;
+   }
+   #nav li{
+    width:90px;
+    margin-right:1px;
+    float:left;	
+    }
+	#nav a{
+	font-weight:bold;
+	font-size:15px;
+	line-height:37px;
+	font-family:"Œ¢»Ì—≈∫⁄";
+	color:#000000;
+    display:block;
+	width:90px;
+	height:37px;
+	text-align:center; 
+	}
+	#nav a:hover{
+	color:white;
+	background:url(±≥æ∞.png);
+	}
+	#contact{
+	margin-top:1px;
+	height:129px;
+	background:#EEE;
+	}
+	#footer{
+	margin-top:15px;
+	height:120px;
+	}
+	#footer a{
+	   color:#000000;
+	   }
+	#footer ul{
+	height:40px;
+	background:#EEE;
+	}
+	#footer li{
+	float:left;
+	margin-right:10px;
+	margin-top:15px;
+	}
+	#footer address{
+	margin-top:10px;
+	font-size:12px;
+	font-family:"Œ¢»Ì—≈∫⁄",sans-serif;
+	}
+	#banner{
+	margin:6px 0;
